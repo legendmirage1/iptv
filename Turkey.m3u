@@ -19,28 +19,36 @@ https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
 #EXTINF:-1,TLC
 https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-#EXTINF:-1,EURO D 
+#EXTINF:-1,EURO D
 https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
-#EXTINF:-1,HABERTÜRK
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-#EXTINF:-1,HALK TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8
 #EXTINF:-1,KANAL 7
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:-1,HABERTÜRK
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:-1,HABER GLOBAL
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:-1,TRT HABER
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+#EXTINF:-1,CNN TÜRK
+https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8
+#EXTINF:-1,HALK TV
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1,NTV
+https://ntv.blutv.com/blutv_ntv_live/live.m3u8
+#EXTINF:-1,BLOOMBERG HT
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1,TELE1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1,KANAL 24
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1,KANAL D yedek
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1,NTV
-https://ntv.blutv.com/blutv_ntv_live/live.m3u8
 #EXTINF:-1,NTV yedek
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1,SHOW TV yedek
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,STAR TV yedek
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1,TELE1
-https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1,TRT BELGESEL
 https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
 #EXTINF:-1,TRT SPOR
@@ -51,7 +59,5 @@ https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:-1,Beyaz Tv
 https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
-#EXTINF:-1,Beyaz Tv 2
-https://mn-nl.mncdn.com/blutv_beyaztv_dvr/live.m3u8
-#EXTINF:-1,BLOOMBERG HT
-https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:-1,TV8,5
+https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
