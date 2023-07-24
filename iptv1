@@ -1,1 +1,787 @@
-deneme
+#EXTM3U
+#EXTINF:0,TRT 1
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+#EXTINF:0,TRT 1 yedek
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TV8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0,KANAL D
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8
+#EXTINF:0,FOX
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0,SHOW TV
+https://showtv.blutv.com/blutv_showtv_live/live.m3u8
+#EXTINF:0,STAR TV
+https://startv.blutv.com/blutv_startv_live/live.m3u8
+#EXTINF:0,ATV
+https://list.iptvcat.com/my_list/s/86bc42c55c22ab8143b1382528cc2ce3.m3u8
+#EXTINF:0,ATV Avrupa
+https://list.iptvcat.com/my_list/s/6acc8e07c4368c544aebbdff760bd265.m3u8
+#EXTINF:0,DMAX
+https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
+#EXTINF:0,TLC
+https://tlc.blutv.com/blutv_tlc_live/live.m3u8
+#EXTINF:0,EURO D
+https://mn-nl.mncdn.com/blutv_eurod2/live.m3u8
+#EXTINF:0,KANAL 7
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+#EXTINF:0,HABERTÜRK
+https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
+#EXTINF:0,HABER GLOBAL
+https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
+#EXTINF:0,TRT HABER
+https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+#EXTINF:0,CNN TÜRK
+https://cnnturk.blutv.com/blutv_cnnturk_live/live.m3u8
+#EXTINF:0,HALK TV
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:0,NTV
+https://ntv.blutv.com/blutv_ntv_live/live.m3u8
+#EXTINF:0,BLOOMBERG HT
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
+#EXTINF:0,TELE1
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:0,KANAL 24
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+#EXTINF:0,KANAL D yedek
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0,NTV yedek
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:0,SHOW TV yedek
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:0,STAR TV yedek
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:0,TRT BELGESEL
+https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
+#EXTINF:0,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TV8 İNT
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
+#EXTINF:0,360
+https://360tv.blutv.com/blutv_360tv_live/live.m3u8
+#EXTINF:0,Beyaz Tv
+https://beyaztv.blutv.com/blutv_beyaztv_live/live.m3u8
+#EXTINF:0,TV8,5
+https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
+#EXTINF:0,|TR| Trt 4K
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129138
+#EXTINF:0,|TR| Trt 1 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20484
+#EXTINF:0,|TR| Trt 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113265
+#EXTINF:0,|TR| Trt 1 Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129139
+#EXTINF:0,|TR| Atv HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6266
+#EXTINF:0,|TR| Atv FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113266
+#EXTINF:0,|TR| Atv Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129140
+#EXTINF:0,|TR| Fox Tv HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6276
+#EXTINF:0,|TR| Fox Tv FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113268
+#EXTINF:0,|TR| Fox Tv Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129144
+#EXTINF:0,|TR| Kanal D HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6275
+#EXTINF:0,|TR| Kanal D FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113267
+#EXTINF:0,|TR| Kanal D Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129143
+#EXTINF:0,|TR| Star Tv HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6270
+#EXTINF:0,|TR| Star Tv FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113269
+#EXTINF:0,|TR| Star Tv Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129141
+#EXTINF:0,|TR| Show Tv HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6273
+#EXTINF:0,|TR| Show Tv FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113270
+#EXTINF:0,|TR| Show Tv Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129142
+#EXTINF:0,|TR| Tv 8 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20742
+#EXTINF:0,|TR| Tv 8 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113271
+#EXTINF:0,|TR| Tv 8 Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/129145
+#EXTINF:0,|TR| Tv 8.5 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6281
+#EXTINF:0,|TR| Kanal 7 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6278
+#EXTINF:0,|TR| Beyaz TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6277
+#EXTINF:0,|TR| A2 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6268
+#EXTINF:0,|TR| 360 TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6272
+#EXTINF:0,|TR| Teve 2 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6279
+#EXTINF:0,|TR| Mavi Karadeniz
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20784
+#EXTINF:0,|TR| ATV Avrupa
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20810
+#EXTINF:0,|TR| Show Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20795
+#EXTINF:0,|TR| Euro Star
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20809
+#EXTINF:0,|TR| Afyon Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20808
+#EXTINF:0,|TR| Flash TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20812
+#EXTINF:0,|TR| Ülke TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20814
+#EXTINF:0,|TR| Bursa AS TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20823
+#EXTINF:0,|TR| Can TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20824
+#EXTINF:0,|TR| Çanakkale Ton TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20826
+#EXTINF:0,|TR| Çay TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20828
+#EXTINF:0,|TR| Fortuna TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20848
+#EXTINF:0,|TR| Kanal 3
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20862
+#EXTINF:0,|TR| Kanal 15
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20864
+#EXTINF:0,|TR| Kanal 68
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20875
+#EXTINF:0,|TR| Kanal B
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20878
+#EXTINF:0,|TR| Kanal Z
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20885
+#EXTINF:0,|TR| Köroğlu TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20891
+#EXTINF:0,|TR| Tgrt EU
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20942
+#EXTINF:0,|TR| Trt Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/61299
+#EXTINF:0,|TR| AA Live (720p)
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101934
+#EXTINF:0,|TR| Al-Zahra TV Turkic
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101937
+#EXTINF:0,|TR| Alanya Posta TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101938
+#EXTINF:0,|TR| ATV Alanya
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101940
+#EXTINF:0,|TR| Berat TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101941
+#EXTINF:0,|TR| BRTV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101944
+#EXTINF:0,|TR| Bursa AS TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101945
+#EXTINF:0,|TR| Bursa TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101947
+#EXTINF:0,|TR| Cekmeköy TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101949
+#EXTINF:0,|TR| Çiftçi TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101951
+#EXTINF:0,|TR| Deha TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101952
+#EXTINF:0,|TR| Deni̇z Postasi TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101953
+#EXTINF:0,|TR| Deniz Postası TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101954
+#EXTINF:0,|TR| DHA
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101955
+#EXTINF:0,|TR| DİM TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101956
+#EXTINF:0,|TR| DRT TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101957
+#EXTINF:0,|TR| Em TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101959
+#EXTINF:0,|TR| Er TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101960
+#EXTINF:0,|TR| GRT
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101968
+#EXTINF:0,|TR| Hunat TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101973
+#EXTINF:0,|TR| IBB TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101975
+#EXTINF:0,|TR| Icel TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101977
+#EXTINF:0,|TR| Kanal 12
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101983
+#EXTINF:0,|TR| Kanal 23
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101985
+#EXTINF:0,|TR| Kanal 26
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101986
+#EXTINF:0,|TR| Kanal 33
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101987
+#EXTINF:0,|TR| Kanal 38
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101990
+#EXTINF:0,|TR| Kanal Avrupa
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101992
+#EXTINF:0,|TR| Kanal Firat
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101994
+#EXTINF:0,|TR| Kay TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101998
+#EXTINF:0,|TR| Kent Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101999
+#EXTINF:0,|TR| Lalegül TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102001
+#EXTINF:0,|TR| Line TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102002
+#EXTINF:0,|TR| Mavi Karadeniz
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102004
+#EXTINF:0,|TR| Med Müzik TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102005
+#EXTINF:0,|TR| Mercan TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102007
+#EXTINF:0,|TR| Mercan TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102008
+#EXTINF:0,|TR| Misk FM
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102010
+#EXTINF:0,|TR| Natural TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102012
+#EXTINF:0,|TR| Olay Türk TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102014
+#EXTINF:0,|TR| OlayTürk Kayseri
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102015
+#EXTINF:0,|TR| Öncü TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102018
+#EXTINF:0,|TR| Power Turk Akustik
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102020
+#EXTINF:0,|TR| Semerkand TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102025
+#EXTINF:0,|TR| Ton TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102030
+#EXTINF:0,|TR| TV41
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102038
+#EXTINF:0,|TR| ÜÜ TV Üsküdar Üniversitesi TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102046
+#EXTINF:0,|TR| VTV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102048
+#EXTINF:0,|TR| Vuslat TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102051
+#EXTINF:0,|TR| YOL TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102059
+#EXTINF:0,|TR| YOL TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102060
+#EXTINF:0,|TR| 360
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102066
+#EXTINF:0,|TR| Kral Pop
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102075
+#EXTINF:0,|TR| Power Turk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102077
+#EXTINF:0,|TR| Euro D HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102083
+#EXTINF:0,|TR| TV EM
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102090
+#EXTINF:0,|TR| SAT 7 TÜRK
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102096
+#EXTINF:0,|TR| DOST TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102098
+#EXTINF:0,|TR| REHBER TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/102099
+#EXTINF:0,|TR| Tivi6
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103311
+#EXTINF:0,|TR| Anadolu Ajansı
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103321
+#EXTINF:0,|TR| DHA Canlı 1
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103324
+#EXTINF:0,|TR| DHA Canlı 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103325
+#EXTINF:0,|TR| TV 4
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103328
+#EXTINF:0,|TR| Moda FM TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103361
+#EXTINF:0,|TR| Diyar TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103373
+#EXTINF:0,|TR| Kudüs TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103375
+#EXTINF:0,|TR| TV5
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103376
+#EXTINF:0,|TR| Agro TV Türkiye
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103384
+#EXTINF:0,|TR| Beşiktaş Web TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103389
+#EXTINF:0,|TR| Marmaris Web TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103392
+#EXTINF:0,|TR| Ordu BB TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103393
+#EXTINF:0,|TR| Sarıyer TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103394
+#EXTINF:0,|TR| Turhal Web TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103395
+#EXTINF:0,|TR| ADD Web TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103397
+#EXTINF:0,|TR| Beykent TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103402
+#EXTINF:0,|TR| Finest TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103413
+#EXTINF:0,|TR| Fortuna TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103414
+#EXTINF:0,|TR| Güne Doğuş TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103415
+#EXTINF:0,|TR| Natural TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103423
+#EXTINF:0,|TR| Kanal 23
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103437
+#EXTINF:0,|TR| Kanal 26 Eskişehir
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103438
+#EXTINF:0,|TR| Kanal 33 Mersin
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103439
+#EXTINF:0,|TR| Kanal V
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103440
+#EXTINF:0,|TR| ON6 TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103444
+#EXTINF:0,|TR| Aktüel Bursa TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103450
+#EXTINF:0,|TR| Boztepe TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103457
+#EXTINF:0,|TR| BRTV Karabük
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103458
+#EXTINF:0,|TR| Bursa TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103461
+#EXTINF:0,|TR| Çay TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103464
+#EXTINF:0,|TR| Denge Zelal TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103466
+#EXTINF:0,|TR| Derincem TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103467
+#EXTINF:0,|TR| DRT Denizli
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103468
+#EXTINF:0,|TR| ERT Şah TV Erzincan
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103478
+#EXTINF:0,|TR| ER TV Malatya
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103480
+#EXTINF:0,|TR| ES TV Eskişehir
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103482
+#EXTINF:0,|TR| ETV Kayseri
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103483
+#EXTINF:0,|TR| FRT Fethiye
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103484
+#EXTINF:0,|TR| GRT Gaziantep
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103487
+#EXTINF:0,|TR| Gurbet 24 Erzincan
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103488
+#EXTINF:0,|TR| Hunat TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103491
+#EXTINF:0,|TR| İçel TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103493
+#EXTINF:0,|TR| Kanal 13 Bitlis
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103496
+#EXTINF:0,|TR| Kanal 42
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103499
+#EXTINF:0,|TR| Kanal 58 Sivas
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103502
+#EXTINF:0,|TR| Kanal 68 Aksaray
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103504
+#EXTINF:0,|TR| Kardelen TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103509
+#EXTINF:0,|TR| Kay TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103510
+#EXTINF:0,|TR| Kent Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103512
+#EXTINF:0,|TR| Manisa TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103516
+#EXTINF:0,|TR| Mavi Karadeniz
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103518
+#EXTINF:0,|TR| MSBC Kanal 2000
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103521
+#EXTINF:0,|TR| Muğla Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103522
+#EXTINF:0,|TR| Ogün TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103523
+#EXTINF:0,|TR| Ordu ORT TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103525
+#EXTINF:0,|TR| Öncü TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103526
+#EXTINF:0,|TR| Tarsus Güney TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103537
+#EXTINF:0,|TR| Tek Rumeli TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103538
+#EXTINF:0,|TR| Tokat TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103540
+#EXTINF:0,|TR| Ton TV Çanakkale
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103541
+#EXTINF:0,|TR| Trakya Türk TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103542
+#EXTINF:0,|TR| TV 264 Sakarya
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103546
+#EXTINF:0,|TR| TV 41 Kocaeli
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103548
+#EXTINF:0,|TR| TV 52 Ordu
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103549
+#EXTINF:0,|TR| TV Öncü
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103552
+#EXTINF:0,|TR| Urfanatik TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103553
+#EXTINF:0,|TR| Van Gölü TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103555
+#EXTINF:0,|TR| Max
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103565
+#EXTINF:0,|TR| Kanal İstanbul
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103567
+#EXTINF:0,|TR| Misket TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103569
+#EXTINF:0,|TR| Turkuvaz Kovboy
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103577
+#EXTINF:0,|TR| Tv Avrupa
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103578
+#EXTINF:0,|TR| Woman Tv
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113043
+#EXTINF:0,|TR| Trt World
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6207
+#EXTINF:0,|TR| Trt Haber
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6208
+#EXTINF:0,|TR| Cnn Türk HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6210
+#EXTINF:0,|TR| Haber Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6212
+#EXTINF:0,|TR| Haber Global HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6219
+#EXTINF:0,|TR| 24 TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20748
+#EXTINF:0,|TR| Ntv
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101114
+#EXTINF:0,|TR| A Haber HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20768
+#EXTINF:0,|TR| Bengü Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20811
+#EXTINF:0,|TR| TV 100
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6225
+#EXTINF:0,|TR| Tgrt Haber
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6209
+#EXTINF:0,|TR| Halk TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20758
+#EXTINF:0,|TR| Tele 1
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101115
+#EXTINF:0,|TR| Krt TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101118
+#EXTINF:0,|TR| Sözcü Tv
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/165138
+#EXTINF:0,|TR| A Para
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6206
+#EXTINF:0,|TR| Bloomberg HT
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6214
+#EXTINF:0,|TR| Eko Türk HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20486
+#EXTINF:0,|TR| TV Net
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20813
+#EXTINF:0,|TR| Trt Muzik HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/61298
+#EXTINF:0,|TR| Kral TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101123
+#EXTINF:0,|TR| Kral Pop HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101124
+#EXTINF:0,|TR| Number One Turk HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101887
+#EXTINF:0,|TR| Number One HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101888
+#EXTINF:0,|TR| Tatlıses TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101125
+#EXTINF:0,|TR| Power TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101126
+#EXTINF:0,|TR| Dream Turk HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101885
+#EXTINF:0,|TR| Cartoon Network HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6234
+#EXTINF:0,|TR| Pembe Panter TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6235
+#EXTINF:0,|TR| Disney Junior HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6236
+#EXTINF:0,|TR| Maşa İle Koca Ayı HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6238
+#EXTINF:0,|TR| Baby TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6239
+#EXTINF:0,|TR| Tom & Jerry TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6240
+#EXTINF:0,|TR| Pepe TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6241
+#EXTINF:0,|TR| Nickelodeon HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6242
+#EXTINF:0,|TR| Boomerang TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6243
+#EXTINF:0,|TR| Minika Go HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6244
+#EXTINF:0,|TR| Şirinler TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6245
+#EXTINF:0,|TR| Minika Çocuk HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6247
+#EXTINF:0,|TR| Kids Max TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6249
+#EXTINF:0,|TR| Disney Channel HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20416
+#EXTINF:0,|TR| Caillou TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/28933
+#EXTINF:0,|TR| Pija Maskeliler TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35592
+#EXTINF:0,|TR| TRT Çocuk HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/48856
+#EXTINF:0,|TR| Max Niloya HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113702
+#EXTINF:0,|TR| Max Nick JR HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113705
+#EXTINF:0,|TR| TGRT Belgesel HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6284
+#EXTINF:0,|TR| TRT Belgesel HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/13286
+#EXTINF:0,|TR| Dmax HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6296
+#EXTINF:0,|TR| National Geographic HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6286
+#EXTINF:0,|TR| Nat Geo Wild HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6287
+#EXTINF:0,|TR| Discovery Channel HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6289
+#EXTINF:0,|TR| Investigation Discovery
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6290
+#EXTINF:0,|TR| Discovery Science HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6291
+#EXTINF:0,|TR| Da Vinci HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6293
+#EXTINF:0,|TR| Bbc Earth HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6294
+#EXTINF:0,|TR| Animaux HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6297
+#EXTINF:0,|TR| beIN Gurme HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6302
+#EXTINF:0,|TR| Bein IZ HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/105919
+#EXTINF:0,|TR| History HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/12822
+#EXTINF:0,|TR| 24 Kitchen TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20508
+#EXTINF:0,|TR| Love Nature HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/22098
+#EXTINF:0,|TR| RTG International HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/23924
+#EXTINF:0,|TR| Outdoor HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35997
+#EXTINF:0,|TR| Docubox HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35998
+#EXTINF:0,|TR| Nasa TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20921
+#EXTINF:0,|TR| Tlc TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35593
+#EXTINF:0,|TR| Max Define TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/47809
+#EXTINF:0,|TR| Tekno Belgesel TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/97247
+#EXTINF:0,|TR| Yaban TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/165131
+#EXTINF:0,|TR| Viasat History HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/110174
+#EXTINF:0,|TR| Max National HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113207
+#EXTINF:0,|TR| Viasat Explore HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113283
+#EXTINF:0,|TR| Max Nature HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113484
+#EXTINF:0,|TR| Trt Eba TV  İlkokul HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6090
+#EXTINF:0,|TR| Trt Eba TV Ortaokul HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6091
+#EXTINF:0,|TR| Trt Eba TV Lise HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6092
+#EXTINF:0,|TR| Moviesmart Premium 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6182
+#EXTINF:0,|TR| Moviesmart Türk
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6183
+#EXTINF:0,|TR| Dizismart Max
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6184
+#EXTINF:0,|TR| Moviesmart Premium
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6188
+#EXTINF:0,|TR| Dizismart Classic
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6190
+#EXTINF:0,|TR| beIN Box Office 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6195
+#EXTINF:0,|TR| beIN Box Office 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6196
+#EXTINF:0,|TR| beIN Box Office 3 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6197
+#EXTINF:0,|TR| beIN Movies Action 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6198
+#EXTINF:0,|TR| beIN Movies Action 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6199
+#EXTINF:0,|TR| beIN Movies Premier 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6200
+#EXTINF:0,|TR| beIN Movies Premier 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6201
+#EXTINF:0,|TR| beIN Movies Turk FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6202
+#EXTINF:0,|TR| beIN Movies Family FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6204
+#EXTINF:0,|TR| beIN Series 1
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/125801
+#EXTINF:0,|TR| beIN Movies Stars FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/125800
+#EXTINF:0,|TR| beIN Series 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20509
+#EXTINF:0,|TR| beIN Series 3
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20510
+#EXTINF:0,|TR| Sinema TV Aile
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113292
+#EXTINF:0,|TR| Sinema TV Yerli
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113294
+#EXTINF:0,|TR| Sinema TV Komedi
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113295
+#EXTINF:0,|TR| Sinema TV 1001
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113296
+#EXTINF:0,|TR| Sinema TV 1002
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113558
+#EXTINF:0,|TR| Sinema TV Aile 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113556
+#EXTINF:0,|TR| Sinema TV Aksiyon
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113293
+#EXTINF:0,|TR| Sinema TV Aksiyon 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113557
+#EXTINF:0,|TR| beIN Sports Haber HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/103337
+#EXTINF:0,|TR| beIN Sports Haber FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/167847
+#EXTINF:0,|TR| beIN Sports 1 SD Türkiye
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6119
+#EXTINF:0,|TR| beIN Sports 1 SD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35762
+#EXTINF:0,|TR| beIN Sports 1 HD Türkiye
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/98925
+#EXTINF:0,|TR| beIN Sports 1 EU
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/112173
+#EXTINF:0,|TR| beIN Sports 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/126272
+#EXTINF:0,|TR| beIN Sports 1 Hevc
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/115583
+#EXTINF:0,|TR| beIN Sports 1 4K
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35650
+#EXTINF:0,|TR| beIN Sports 2 SD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/110940
+#EXTINF:0,|TR| beIN Sports 2 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35730
+#EXTINF:0,|TR| beIN Sports 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101508
+#EXTINF:0,|TR| beIN Sports 3 SD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/110941
+#EXTINF:0,|TR| beIN Sports 3 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6097
+#EXTINF:0,|TR| beIN Sports 3 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101507
+#EXTINF:0,|TR| beIN Sports 4 SD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/110942
+#EXTINF:0,|TR| beIN Sports 4 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6098
+#EXTINF:0,|TR| beIN Sports 4 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101506
+#EXTINF:0,|TR| beIN Sports 5 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/125936
+#EXTINF:0,|TR| beIN Sports Max 1
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6099
+#EXTINF:0,|TR| beIN Sports Max 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6100
+#EXTINF:0,|TR| X PLUS FEED-1
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/123353
+#EXTINF:0,|TR| X PLUS FEED-2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/123354
+#EXTINF:0,|TR| beIN Connect 1 |Mac Saati|
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137710
+#EXTINF:0,|TR| beIN Connect 2 |Mac Saati|
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137711
+#EXTINF:0,|TR| beIN Connect 3 |Mac Saati|
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137712
+#EXTINF:0,|TR| Exxen Spor 1 SD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101138
+#EXTINF:0,|TR| Exxen Spor 1 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/98877
+#EXTINF:0,|TR| Exxen Spor 2 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/98878
+#EXTINF:0,|TR| Exxen Spor 3 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/98926
+#EXTINF:0,|TR| Exxen Spor 4 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101132
+#EXTINF:0,|TR| Exxen Spor 5 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101133
+#EXTINF:0,|TR| Exxen Spor 6 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101134
+#EXTINF:0,|TR| Exxen Spor 7 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101135
+#EXTINF:0,|TR| Exxen Spor 8 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/101137
+#EXTINF:0,|TR| Exxen Spor 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/125484
+#EXTINF:0,|TR| Exxen Spor 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166508
+#EXTINF:0,|TR| Exxen Spor 3 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166509
+#EXTINF:0,|TR| Exxen Spor 4 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166510
+#EXTINF:0,|TR| Exxen Spor 5 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166511
+#EXTINF:0,|TR| Exxen Spor 6 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166512
+#EXTINF:0,|TR| Exxen Spor 7 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166513
+#EXTINF:0,|TR| Exxen Spor 8 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166514
+#EXTINF:0,|TR| S Sport 1 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6104
+#EXTINF:0,|TR| S Sport 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/115598
+#EXTINF:0,|TR| S Sport 2 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6105
+#EXTINF:0,|TR| S Sport 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/115599
+#EXTINF:0,|TR| S Sport+1 Mac Saati
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137713
+#EXTINF:0,|TR| S Sport+2 Mac Saati
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137714
+#EXTINF:0,|TR| S Sport+3 Mac Saati
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137715
+#EXTINF:0,|TR| S Sport+4 Mac Saati
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137716
+#EXTINF:0,|TR| S Sport+5 Mac Saati
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/137717
+#EXTINF:0,|TR| Fuchs Sports 1 FHD (Mac Zamani)
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166681
+#EXTINF:0,|TR| Fuchs Sports 2 FHD (Mac Zamani)
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166682
+#EXTINF:0,|TR| Fuchs Sports 3 FHD (Mac Zamani)
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166683
+#EXTINF:0,|TR| Fuchs Sports 4 FHD (Mac Zamani)
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166684
+#EXTINF:0,|TR| Fuchs Sports 5 FHD (Mac Zamani)
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/166685
+#EXTINF:0,|TR| Tivibu Spor FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6101
+#EXTINF:0,|TR| Tivibu Spor 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6102
+#EXTINF:0,|TR| Tivibu Spor 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6103
+#EXTINF:0,|TR| Tivibu Spor 3 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113254
+#EXTINF:0,|TR| Tivibu Spor 4 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/115600
+#EXTINF:0,|TR| Spor Smart 1 HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/121246
+#EXTINF:0,|TR| Spor Smart 1 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6108
+#EXTINF:0,|TR| Spor Smart 2 FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/113272
+#EXTINF:0,|TR| D-Smart EuroSport 1
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6106
+#EXTINF:0,|TR| D-Smart EuroSport 2
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6107
+#EXTINF:0,|TR| Trt Spor HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6109
+#EXTINF:0,|TR| Trt Spor FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/167849
+#EXTINF:0,|TR| A Spor HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6113
+#EXTINF:0,|TR| A Spor FHD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/167848
+#EXTINF:0,|TR| FB TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6114
+#EXTINF:0,|TR| GS TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6115
+#EXTINF:0,|TR| Trt Spor Yıldız
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/35774
+#EXTINF:0,|TR| FIGHTBOX
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/167850
+#EXTINF:0,|TR| Nba TV HD
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6111
+#EXTINF:0,|TR| Sports TV
+http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20772
