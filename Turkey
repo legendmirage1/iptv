@@ -721,3 +721,43 @@ http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/167850
 http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/6111
 #EXTINF:0,|TR| Sports TV
 http://nehiriptv.online:8080/Selman96/eEcCmpnNYD/20772
+#EXTINF: -1 group-title="TR Turkey", TRT 1
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", HABER TURK
+https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/beinsport5.png" group-title="TR Turkey", Trt Spor
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF: -1 group-title="TR Turkey", TEVE2
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/beinsport5.png" group-title="TR Turkey", Trt Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/beinsport5.png" group-title="TR Turkey", A Spor FHD
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1692581013&st=JU9g-DqfUlhtbiDwEpVTcQ&sid=5nxq8pyf80mt&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
+#EXTINF: -1 tvg-logo="http://11.somee.com/images/beinsport5.png" group-title="TR Turkey", Tv 8.5
+https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8?st=Yn5OjjyB2PJXqosdPBf89A&e=1692542330
+#EXTINF: -1 group-title="TR Turkey", HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
+#EXTINF: -1 group-title="TR Turkey", A SPOR
+http://cms.tivigo.xyz:80/serkanyuksel/SERkan1983/1643
+#EXTINF: -1 group-title="TR Turkey", ATV
+http://116.202.238.88/ATV_TR/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", SHOW TV
+http://canli.haber365.com.tr/tr/showtv/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", STAR TV
+http://canli.haber365.com.tr/tr/startv/index.m3u8
+#EXTINF: -1 group-title="TR Turkey", KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_720p.m3u8
+#EXTINF: -1 group-title="TR Turkey", CNN TURK
+https://teve2.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF: -1 group-title="TR Turkey", FOX TV
+https://foxtv.blutv.com/blutv_foxtv_live/live_720p2000000kbps/index.m3u8
