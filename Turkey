@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,TRT 1
 http://hw1.jemtv.com/app/trt1/playlist.m3u8
+#EXTINF:0,TRT 1 (Yedek)
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #EXTINF:0,TRT 2
 http://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:0,teve2
@@ -13,9 +15,10 @@ http://hw1.jemtv.com/app/trtbelgese/playlist.m3u8
 http://hw2.jemtv.com/app/trtavaz/playlist.m3u8
 #EXTINF:0,TRT COCUK
 http://hw2.jemtv.com/app/10064.stream/playlist.m3u8
-
 #EXTINF:0,TRT SPOR
 http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+#EXTINF:0,TRT SPOR (Yedek)
+http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:0,TRT SPOR 2
 http://hw1.jemtv.com/app/trtspor2/playlist.m3u8
 #EXTINF:0,SPORTS TV
@@ -46,7 +49,6 @@ http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
 http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
 #EXTINF:0,KANAL 7
 http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
-
 #EXTINF:0,TLC HD
 http://hw1.jemtv.com/app/tlchd/playlist.m3u8
 #EXTINF:0,DMAX
