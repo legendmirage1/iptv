@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,TRT 1
-http://hw1.jemtv.com/app/trt1/playlist.m3u8
+https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #EXTINF:0,TRT 1 (Yedek)
 https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
 #EXTINF:0,TRT 2
