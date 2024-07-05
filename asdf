@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0,TRT 1
-http://hw1.jemtv.com/app/trt1/playlist.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8?hls=1
 #EXTINF:0,TRT 1 (Yedek)
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
+http://62.210.88.161/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:0,TRT 2
 http://hw1.jemtv.com/app/trt2/playlist.m3u8
 #EXTINF:0,teve2
