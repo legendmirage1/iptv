@@ -4,52 +4,52 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8?hls=1
 #EXTINF:0,TRT 1 (Yedek)
 http://62.210.88.161/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:0,TRT 2
-http://hw1.jemtv.com/app/trt2/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/
 #EXTINF:0,teve2
-http://hw1.jemtv.com/app/teve2/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65980
 #EXTINF:0,TRT HABER
-http://hw1.jemtv.com/app/trthaber/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65974
 #EXTINF:0,TRT BELGESEL
-http://hw1.jemtv.com/app/trtbelgese/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65947
 #EXTINF:0,TRT AVAZ
-http://hw2.jemtv.com/app/trtavaz/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65906
 #EXTINF:0,TRT COCUK
-http://hw2.jemtv.com/app/10064.stream/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65935
 #EXTINF:0,TRT SPOR
-http://hw1.jemtv.com/app/trtspor/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65752
 #EXTINF:0,TRT SPOR (Yedek)
 http://stream.tvcdn.net/spor/trt-spor.m3u8
 #EXTINF:0,TRT SPOR 2
 http://hw1.jemtv.com/app/trtspor2/playlist.m3u8
-#EXTINF:0,SPORTS TV
-http://hw1.jemtv.com/app/sportstv/playlist.m3u8
+#EXTINF:0,TRT SPOR 2 (Yedek)
+http://s.showplustv.pro:80/Amar@thr/35666790/65751
 #EXTINF:0,aHABER HD
-http://hw1.jemtv.com/app/AHaber/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65966
 #EXTINF:0,HABERTURK
-http://hw1.jemtv.com/app/haberturk/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65953
 #EXTINF:0,CNNTURK
-http://hw1.jemtv.com/app/cnnturk/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65973
 #EXTINF:0,ULKE TV
-http://hw1.jemtv.com/app/ulketv/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65967
 #EXTINF:0,KANAL D
-http://hw1.jemtv.com/app/KanalD/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65992
 #EXTINF:0,TV 8
-http://hw1.jemtv.com/app/tv8/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65987
 #EXTINF:0,TV 8,5
-http://hw1.jemtv.com/app/tv85/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65986
 #EXTINF:0,A2 HD
-http://hw1.jemtv.com/app/a2hd/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65981
 #EXTINF:0,ATV
-http://stream.tvcdn.net/ulusal/atv.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65991
 #EXTINF:0,STAR
-http://hw1.jemtv.com/app/StarTV/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65990
 #EXTINF:0,SHOW
-http://hw1.jemtv.com/app/ShowTV/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65993
 #EXTINF:0,FOX
-http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65989
 #EXTINF:0,KANAL 7
-http://hw1.jemtv.com/app/Kanal7/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65985
 #EXTINF:0,TLC HD
-http://hw1.jemtv.com/app/tlchd/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65942
 #EXTINF:0,DMAX
-http://hw1.jemtv.com/app/Dmax/playlist.m3u8
+http://s.showplustv.pro:80/Amar@thr/35666790/65982
