@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1,TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8?hls=1
-#EXTINF:-1,TRT 1 (Yedek)
 http://62.210.88.161/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TRT 2
 http://162.212.179.32/gin-36bay3/gt-trt2/playlist.m3u8
@@ -48,7 +46,7 @@ http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/31
 #EXTINF:-1,Tvnet
 http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/32
 #EXTINF:-1,KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+http://162.212.179.32/gin-36bay4/gt-kanald-2/playlist.m3u8
 #EXTINF:-1,TV 8
 http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/42
 #EXTINF:-1,TV 8-5
