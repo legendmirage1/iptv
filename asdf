@@ -1,53 +1,85 @@
 #EXTM3U
-#EXTINF:0,TRT 1
+#EXTINF:-1,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8?hls=1
-#EXTINF:0,TRT 1 (Yedek)
+#EXTINF:-1,TRT 1 (Yedek)
 http://62.210.88.161/gin-dvrfl05/gin-trt1eu/tracks-v1a1/mono.m3u8
-#EXTINF:0,TRT 2
+#EXTINF:-1,TRT 2
 http://162.212.179.32/gin-36bay3/gt-trt2/playlist.m3u8
-#EXTINF:0,teve2
-http://s.showplustv.pro:80/Amar@thr/35666790/65980
-#EXTINF:0,TRT HABER
+#EXTINF:-1,teve2
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/55
+#EXTINF:-1,TRT HABER
 http://s.showplustv.pro:80/Amar@thr/35666790/65974
-#EXTINF:0,TRT BELGESEL
+#EXTINF:-1,TRT BELGESEL
 http://s.showplustv.pro:80/Amar@thr/35666790/65947
-#EXTINF:0,TRT AVAZ
+#EXTINF:-1,TRT AVAZ
 http://s.showplustv.pro:80/Amar@thr/35666790/65906
-#EXTINF:0,TRT COCUK
+#EXTINF:-1,TRT COCUK
 http://s.showplustv.pro:80/Amar@thr/35666790/65935
-#EXTINF:0,TRT SPOR
+#EXTINF:-1,TRT SPOR
 http://s.showplustv.pro:80/Amar@thr/35666790/65752
-#EXTINF:0,TRT SPOR (Yedek)
+#EXTINF:-1,TRT SPOR (Yedek)
 http://stream.tvcdn.net/spor/trt-spor.m3u8
-#EXTINF:0,TRT SPOR 2 (Yedek)
+#EXTINF:-1,TRT SPOR 2 (Yedek)
 http://s.showplustv.pro:80/Amar@thr/35666790/65751
-#EXTINF:0,aHABER HD
-http://s.showplustv.pro:80/Amar@thr/35666790/65966
-#EXTINF:0,HABERTURK
-http://s.showplustv.pro:80/Amar@thr/35666790/65953
-#EXTINF:0,CNNTURK
-http://s.showplustv.pro:80/Amar@thr/35666790/65973
-#EXTINF:0,ULKE TV
-http://s.showplustv.pro:80/Amar@thr/35666790/65967
-#EXTINF:0,KANAL D
-http://s.showplustv.pro:80/Amar@thr/35666790/65992
-#EXTINF:0,TV 8
-http://s.showplustv.pro:80/Amar@thr/35666790/65987
-#EXTINF:0,TV 8,5
-http://s.showplustv.pro:80/Amar@thr/35666790/65986
-#EXTINF:0,A2 HD
-http://s.showplustv.pro:80/Amar@thr/35666790/65981
-#EXTINF:0,ATV
-http://162.212.179.32/gin-trn09/gin-atvv/playlist.m3u8
-#EXTINF:0,STAR
-http://s.showplustv.pro:80/Amar@thr/35666790/65990
-#EXTINF:0,SHOW
-http://s.showplustv.pro:80/Amar@thr/35666790/65993
-#EXTINF:0,FOX
-http://s.showplustv.pro:80/Amar@thr/35666790/65989
-#EXTINF:0,KANAL 7
-http://s.showplustv.pro:80/Amar@thr/35666790/65985
-#EXTINF:0,TLC HD
-http://s.showplustv.pro:80/Amar@thr/35666790/65942
-#EXTINF:0,DMAX
-http://s.showplustv.pro:80/Amar@thr/35666790/65982
+#EXTINF:-1,A Haber
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/17
+#EXTINF:-1,CnnTürk
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/18
+#EXTINF:-1,Habertürk Tv
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/20
+#EXTINF:-1,HaberGlobal
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/21
+#EXTINF:-1,Ntv
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/23
+#EXTINF:-1,Kanal24
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/24
+#EXTINF:-1,Flash TV
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/25
+#EXTINF:-1,Ulusal Kanal
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/26
+#EXTINF:-1,Bengütürk
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/27
+#EXTINF:-1,Bloomberg HT
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/28
+#EXTINF:-1,Cnbc-E
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/30
+#EXTINF:-1,Sözcü Tv
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/31
+#EXTINF:-1,Tvnet
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/32
+#EXTINF:-1,KANAL D
+https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1,TV 8
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/42
+#EXTINF:-1,TV 8-5
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/56
+#EXTINF:-1,ATV
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/36
+#EXTINF:-1,STAR
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/43
+#EXTINF:-1,SHOW
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/39
+#EXTINF:-1,FOX
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/38
+#EXTINF:-1,KANAL 7
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/41
+#EXTINF:-1,TLC HD
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/54
+#EXTINF:-1,DMAX
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/15
+#EXTINF:-1,Bbc Earth
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/2
+#EXTINF:-1,Docu Screen
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/3
+#EXTINF:-1,Discovery Channel
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/4
+#EXTINF:-1,Discovery ID
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/5
+#EXTINF:-1,History Channel
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/6
+#EXTINF:-1,National Geographic
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/7
+#EXTINF:-1,National Geographic Wild
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/8
+#EXTINF:-1,Tarih Tv
+http://tr1.gurbetstream.cfd:8080/belgeselsever/hWEvELBLyP/12
