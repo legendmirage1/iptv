@@ -62,6 +62,8 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1,TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1,ATV Yedek
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://c.fulltvizle.com/aytv/index.m3u8
 #EXTINF:-1,ATV Yedek 2
-http://50.7.144.122:1935/livetv/atv.stream/sec-f5-v1-a1.m3u8
+https://streamer2.nexgen.bz/ATV/index.m3u8
+#EXTINF:-1,ATV Yedek 3
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
