@@ -9,13 +9,10 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,TV 8-5
 http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
-#EXTINF:10.0 tvg-id="ATV [Kynk 1]" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv ➾[Kynk 1]
-https://c.fulltvizle.com/aytv/index.m3u8
-# ? http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="ATV [Kynk 2]" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv ➾[Kynk 2]
-http://d.tvdark.eu/play/live.php?mac=00:1A:79:02:9F:A3&stream=3054&extension=m3u8
-
+#EXTINF:10.0, ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:10.0, ATV 2
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:-1,STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1,SHOW
@@ -66,8 +63,6 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1,TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:10.0, ATV Yedek
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:10.0, ATV Yedek 2
 http://mehmetaslan.serv00.net/atvHD?ID=https://trkvz.daioncdn.net/atv/atv_1080p.m3u8&CDN=app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
 #EXTINF:-1,TV 8
