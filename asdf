@@ -4,21 +4,21 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1,TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1,TV 8-5
-http://50.7.144.122:1935/livetv/tv8-5.stream/sec-f5-v1-a1.m3u8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:10.0, ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:10.0, ATV 2
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1,STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1,SHOW
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1,FOX
-http://50.7.144.122:1935/livetv/foxtv.stream/sec-f5-v1-a1.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1,KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1,TLC HD
@@ -28,7 +28,7 @@ https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:-1,teve2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:-1,FOX Yedek
-https://trn03.tulix.tv/gt-foxturktv/index.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8
 #EXTINF:-1,HABERGLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1,TGRT HABER
@@ -54,18 +54,12 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,trt spor 3
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT 1 Yedek
-https://trn03.tulix.tv/gt-trt1eu/index.m3u8
+https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 #EXTINF:-1,KANAL D Yedek
-https://ecanlitv3.etvserver.com/kanald.m3u8?tkn=MKWIdTzN8eUK_m84O8XodQ&tms=1732113014
-#EXTINF:-1,KANAL D Yedek 2
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1,SHOW
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1,TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:10.0, ATV Yedek 2
-http://mehmetaslan.serv00.net/atvHD?ID=https://trkvz.daioncdn.net/atv/atv_1080p.m3u8&CDN=app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
 #EXTINF:-1,TV 8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-name="ATV [Kynk0]"tvg-id="ATV [Kynk0]"tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"group-title="Ulusal":http-referrer="":http-user-agent="",atv ➾[Kynk 0
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
