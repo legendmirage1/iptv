@@ -108,10 +108,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressour
 http://dygvideo.dygdigital.com/live/hls/stardai?m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-id="Fox.tr",NOW (backup)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV (backup)
-https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n1SCYqN/atv.png",ATV [tkn-blocked]
-https://trkvz-beta.daioncdn.net/atv/atv.m3u8?app=d1ce2d40-5256-4550-b02e-e73c185a314e
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png",TV8 (backup)
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="7. |TR|🇹🇷 BELGESEL & YAŞAM",TRT BELGESEL
@@ -264,7 +261,7 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1, ATV Yedek
 http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",atvHD
-https://informative-strictly-ride-burns.trycloudflare.com/ATVGroup.php?ID=atv
-#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g",atvAVRUPA
-https://informative-strictly-ride-burns.trycloudflare.com/ATVGroup.php?ID=atvavrupa
+#EXTINF:-1, ATV Yedek 1
+http://zafertv85.shop:8080/lkr9217/bh.16062024/6266
+#EXTINF:-1, ATV Yedek 2
+http://zafertv85.shop:8080/lkr9217/bh.16062024/192065
