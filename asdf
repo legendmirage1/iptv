@@ -264,3 +264,7 @@ https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1, ATV Yedek
 http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",atvHD
+https://informative-strictly-ride-burns.trycloudflare.com/ATVGroup.php?ID=atv
+#EXTINF:-1 group-title="ULUSAL" tvg-logo="https://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g",atvAVRUPA
+https://informative-strictly-ride-burns.trycloudflare.com/ATVGroup.php?ID=atvavrupa
